@@ -1,4 +1,6 @@
-# fluids
-Introduction to Fluid Dynamics:  upper undergraduate to graduate level material in fluid dynamics, guided by problems in the atmospheres of planets and interiors of stars.  This material includes a mixture of lectures, analytic work, and simulation work.  Lectures are available on Youtube at the [Introduction to Fluid Dynamics](https://www.youtube.com/playlist?list=PL2L8l2NxJR6cwliz-uc2l_bth88q-KeqX) channel.
+# Introduction to Fluid Dynamics
+Upper undergraduate to graduate level material in fluid dynamics, guided by problems in the atmospheres of planets and interiors of stars.  This material includes a mixture of lectures, analytic work, and simulation work, and is based on the ASTR 5400 course as taught at University of Colorado Boulder, in the Department of Astrophysical and Planetary Sciences by Ben Brown.
 
-To fully utilize all material, you will need [sympy](https://www.sympy.org/), [dedalus](https://dedalus-project.org/) and [eigentools](https://github.com/DedalusProject/eigentools) installed.
+Lectures are available on Youtube at the [Introduction to Fluid Dynamics](https://www.youtube.com/playlist?list=PL2L8l2NxJR6cwliz-uc2l_bth88q-KeqX) channel.  To get a sense of the flow of the material, and the suggested textbooks to accompany the material, see `syllabus.tex` or the included `ASTR_5400_syllabus.pdf` file.
+
+This material is organized in Jupyter notebooks and python is used extensively to illustrate concepts.  To fully utilize all material, you will need [sympy](https://www.sympy.org/), [dedalus](https://dedalus-project.org/) and [eigentools](https://github.com/DedalusProject/eigentools) installed.
